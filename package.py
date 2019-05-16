@@ -6,4 +6,5 @@ def my_test():
             print(x, "X", y, "=", x * y)
     print("---------------------")
 
+
 print(my_test())
