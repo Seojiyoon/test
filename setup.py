@@ -4,7 +4,7 @@ from os import path
 here = path.abspath(path.dirname(__file__))
 
 setup(
-    name="test",
+    name="test_jseo",
     version="0.1",
     description="",
     author="jseo",
@@ -13,8 +13,8 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    keywords="キーワード",
-    url="https://github.com/Seojiyoon/test",
+    keywords="test_jseo",
+    url="https://github.com/Seojiyoon/test_jseo",
     packages=find_packages(),
 
 )
